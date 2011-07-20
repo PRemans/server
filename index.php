@@ -1,6 +1,6 @@
 <?php
 
 
-echo "Xavier ";
+echo "Xavier lol ";
 phpinfo();
 ?>
